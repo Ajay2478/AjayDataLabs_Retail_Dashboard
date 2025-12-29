@@ -1,0 +1,1001 @@
+Date,Product_Category,Region,Sales,Quantity,Profit
+2023-04-13,Audio,North America,1452.15,4,305.93
+2023-12-15,Audio,LATAM,705.5,4,141.54
+2023-09-28,Smartphones,Asia,536.54,2,74.46
+2023-04-17,Laptops,North America,808.6,4,219.75
+2023-03-13,Laptops,Asia,715.32,3,168.38
+2023-07-08,Wearables,North America,247.93,2,66.34
+2023-01-21,Laptops,Europe,997.16,1,270.98
+2023-04-13,Smartphones,Asia,402.45,2,100.48
+2023-05-02,Audio,Asia,967.42,3,181.72
+2023-08-03,Laptops,LATAM,1010.28,3,224.39
+2023-11-27,Wearables,Asia,312.83,2,41.32
+2023-03-29,Laptops,Asia,185.89,1,43.63
+2023-04-10,Smartphones,Europe,1193.07,2,162.08
+2023-12-26,Wearables,Asia,743.72,1,177.59
+2023-06-01,Laptops,Europe,181.43,2,26.47
+2023-05-11,Wearables,Europe,1492.81,3,184.38
+2023-05-30,Smartphones,Europe,180.89,4,24.07
+2023-11-05,Audio,Europe,1073.05,4,107.73
+2023-09-15,Smartphones,North America,1477.15,1,360.05
+2023-12-10,Smartphones,LATAM,434.85,1,107.18
+2023-10-21,Smartphones,North America,299.15,1,60.72
+2023-07-11,Smartphones,Asia,269.94,3,35.71
+2023-10-04,Audio,North America,524.59,2,61.23
+2023-06-10,Audio,North America,241.46,3,25.07
+2023-11-10,Wearables,Asia,1069.03,4,142.34
+2023-01-22,Laptops,Asia,187.21,1,52.08
+2023-09-10,Audio,Asia,813.19,2,120.6
+2023-08-24,Audio,North America,1495.38,4,255.49
+2023-12-11,Laptops,North America,1239.56,4,150.07
+2023-02-18,Audio,Asia,961.31,4,138.88
+2023-02-28,Smartphones,LATAM,528.76,3,107.79
+2023-06-19,Smartphones,LATAM,973.45,1,215.67
+2023-07-07,Laptops,Europe,837.86,4,124.9
+2023-09-28,Wearables,Asia,696.52,1,77.69
+2023-07-09,Wearables,Europe,282.99,3,50.43
+2023-06-24,Laptops,LATAM,1341.25,4,196.95
+2023-02-20,Laptops,Europe,729.7,3,105.01
+2023-12-30,Smartphones,Asia,372.47,3,108.75
+2023-02-24,Wearables,Asia,614.86,1,137.27
+2023-09-01,Audio,Asia,679.78,4,143.69
+2023-11-16,Smartphones,North America,1258.55,3,230.51
+2023-05-11,Laptops,Europe,1127.06,4,209.4
+2023-11-03,Wearables,LATAM,1177.03,1,245.04
+2023-05-15,Audio,LATAM,115.44,3,27.62
+2023-01-21,Audio,LATAM,682.62,1,164.12
+2023-11-25,Smartphones,North America,773.88,4,103.96
+2023-06-16,Wearables,North America,126.87,4,25.38
+2023-10-01,Wearables,Asia,463.74,1,84.58
+2023-03-30,Laptops,LATAM,1164.41,2,319.17
+2023-11-12,Wearables,North America,291.95,3,66.06
+2023-01-14,Wearables,Asia,849.43,4,175.41
+2023-08-30,Smartphones,LATAM,401.28,4,49.39
+2023-09-22,Wearables,Europe,116.97,3,25.87
+2023-12-12,Audio,Asia,437.68,1,54.03
+2023-02-22,Smartphones,North America,1466.22,1,245.51
+2023-12-06,Smartphones,North America,1222.15,1,157.13
+2023-04-02,Laptops,Asia,1443.41,2,344.13
+2023-09-21,Wearables,Asia,783.0,2,110.6
+2023-02-04,Laptops,North America,253.63,4,45.24
+2023-07-25,Audio,Europe,867.14,1,242.05
+2023-03-22,Smartphones,LATAM,736.13,3,103.69
+2023-02-19,Smartphones,Europe,1282.1,4,258.42
+2023-12-26,Smartphones,Asia,237.32,3,43.63
+2023-01-02,Audio,Europe,783.54,4,81.19
+2023-02-23,Audio,North America,310.07,2,80.17
+2023-04-16,Laptops,Asia,554.55,4,63.11
+2023-09-17,Laptops,LATAM,1132.3,2,220.63
+2023-11-06,Laptops,North America,766.43,4,162.59
+2023-07-10,Wearables,North America,626.24,1,141.33
+2023-08-06,Smartphones,LATAM,652.27,3,155.06
+2023-02-13,Smartphones,LATAM,743.23,1,111.97
+2023-06-11,Laptops,Europe,1199.02,4,122.29
+2023-07-21,Smartphones,Asia,1348.92,4,330.07
+2023-09-27,Laptops,LATAM,1437.47,4,297.75
+2023-12-17,Wearables,LATAM,1201.66,2,321.11
+2023-10-31,Wearables,Asia,541.57,3,143.12
+2023-09-28,Audio,LATAM,1063.39,3,285.7
+2023-08-03,Wearables,LATAM,712.64,4,140.4
+2023-09-09,Laptops,Europe,456.54,4,76.12
+2023-07-09,Wearables,North America,1277.22,2,329.92
+2023-10-23,Audio,North America,153.8,1,29.26
+2023-08-01,Smartphones,North America,1362.47,1,186.23
+2023-07-27,Laptops,North America,746.07,3,202.18
+2023-08-25,Smartphones,LATAM,992.08,2,274.32
+2023-12-04,Audio,Asia,1023.1,4,197.73
+2023-02-22,Audio,Asia,1353.16,3,155.8
+2023-10-07,Audio,Europe,991.34,2,176.03
+2023-08-05,Smartphones,Europe,959.51,1,250.15
+2023-09-09,Smartphones,LATAM,193.31,2,54.2
+2023-07-07,Smartphones,Asia,825.77,1,116.18
+2023-02-10,Smartphones,Asia,310.24,2,35.18
+2023-06-06,Audio,North America,1132.41,3,311.95
+2023-01-15,Audio,LATAM,817.11,1,145.35
+2023-10-28,Laptops,LATAM,1052.32,3,219.25
+2023-03-06,Laptops,North America,158.34,3,46.49
+2023-12-11,Smartphones,LATAM,218.71,1,24.78
+2023-11-23,Wearables,LATAM,1102.85,1,253.28
+2023-01-09,Wearables,Europe,200.92,4,23.07
+2023-12-10,Audio,Asia,199.76,4,34.98
+2023-05-09,Audio,LATAM,116.95,4,30.5
+2023-05-16,Audio,Europe,1439.1,3,268.67
+2023-03-04,Laptops,Asia,1132.51,3,339.11
+2023-05-19,Laptops,North America,594.55,4,125.93
+2023-03-22,Audio,Europe,515.15,3,84.6
+2023-06-12,Audio,Europe,589.58,3,84.91
+2023-10-16,Audio,Asia,1184.51,1,201.49
+2023-09-18,Wearables,North America,1025.92,1,179.03
+2023-08-19,Laptops,Europe,359.27,3,40.86
+2023-02-10,Wearables,LATAM,343.75,4,59.78
+2023-01-28,Wearables,LATAM,237.75,2,45.85
+2023-05-15,Audio,LATAM,1024.42,4,250.52
+2023-07-20,Audio,North America,1170.12,2,270.7
+2023-11-24,Smartphones,Europe,471.06,4,113.88
+2023-09-25,Smartphones,LATAM,129.32,1,13.15
+2023-02-02,Wearables,North America,215.04,3,30.87
+2023-02-17,Laptops,LATAM,1455.0,3,338.05
+2023-03-03,Audio,Asia,513.62,1,101.08
+2023-08-04,Audio,Europe,1176.91,2,118.94
+2023-10-20,Wearables,Europe,974.53,2,254.25
+2023-04-09,Smartphones,North America,634.72,2,161.58
+2023-06-21,Laptops,North America,387.96,1,81.35
+2023-12-26,Smartphones,Europe,269.94,2,30.58
+2023-08-02,Smartphones,LATAM,961.02,1,243.43
+2023-02-04,Smartphones,LATAM,1184.49,4,256.73
+2023-08-15,Smartphones,Asia,1001.47,4,256.77
+2023-04-11,Audio,LATAM,842.42,1,210.9
+2023-05-11,Audio,North America,158.73,3,41.37
+2023-09-14,Smartphones,North America,1455.88,4,296.42
+2023-01-05,Laptops,LATAM,1218.2,2,156.01
+2023-08-06,Wearables,North America,509.95,1,119.45
+2023-09-12,Laptops,Europe,1471.96,2,329.86
+2023-12-25,Laptops,Europe,942.63,2,234.2
+2023-10-10,Laptops,LATAM,915.39,3,122.64
+2023-07-26,Smartphones,Europe,1147.3,2,159.47
+2023-01-15,Audio,Europe,1236.48,3,343.84
+2023-12-12,Laptops,Asia,1019.07,4,254.76
+2023-02-11,Smartphones,Asia,279.33,1,78.67
+2023-06-28,Laptops,Europe,573.57,2,144.39
+2023-03-04,Laptops,LATAM,1399.32,1,307.05
+2023-12-18,Smartphones,Asia,414.46,2,95.67
+2023-08-19,Audio,North America,621.03,1,172.54
+2023-08-29,Audio,North America,704.91,2,152.09
+2023-02-21,Wearables,North America,715.17,2,161.97
+2023-04-06,Smartphones,LATAM,958.12,2,125.8
+2023-08-10,Wearables,Europe,1420.31,2,276.65
+2023-08-19,Wearables,North America,436.97,2,106.31
+2023-08-25,Wearables,LATAM,270.1,2,41.65
+2023-05-23,Audio,Asia,376.46,2,52.87
+2023-06-20,Smartphones,Europe,1341.69,2,218.38
+2023-01-29,Wearables,Asia,1004.14,2,148.91
+2023-02-05,Smartphones,LATAM,500.27,1,71.53
+2023-01-13,Smartphones,North America,1242.33,3,229.79
+2023-06-09,Audio,North America,1305.92,2,367.7
+2023-11-23,Wearables,LATAM,1285.12,3,258.84
+2023-07-06,Wearables,North America,1386.5,2,190.76
+2023-08-31,Smartphones,Europe,453.14,2,52.29
+2023-03-27,Laptops,LATAM,1157.06,1,276.8
+2023-10-11,Audio,Asia,744.76,4,131.49
+2023-03-07,Audio,LATAM,1278.8,4,338.07
+2023-06-19,Audio,Europe,1119.89,1,259.7
+2023-02-14,Audio,Europe,1187.03,3,307.74
+2023-03-03,Wearables,LATAM,1018.63,4,157.27
+2023-05-14,Wearables,LATAM,348.4,1,83.08
+2023-10-11,Laptops,North America,863.04,1,131.88
+2023-01-28,Audio,Europe,1478.54,4,425.54
+2023-04-18,Audio,LATAM,1412.34,3,320.99
+2023-02-13,Smartphones,LATAM,160.44,1,26.46
+2023-12-06,Wearables,Europe,330.74,2,50.9
+2023-10-13,Audio,LATAM,284.42,3,39.3
+2023-11-27,Laptops,North America,1116.37,3,266.73
+2023-05-08,Laptops,Europe,1244.9,4,178.95
+2023-12-14,Wearables,North America,398.92,4,87.39
+2023-08-19,Laptops,North America,808.19,2,123.59
+2023-07-09,Laptops,North America,1276.98,1,296.76
+2023-08-13,Wearables,North America,1125.92,4,296.1
+2023-10-10,Audio,Europe,859.13,4,219.6
+2023-05-01,Audio,North America,926.49,3,233.63
+2023-04-26,Laptops,North America,811.7,4,111.64
+2023-08-21,Laptops,LATAM,516.57,4,60.79
+2023-09-16,Audio,Europe,891.03,4,213.66
+2023-12-25,Wearables,Europe,1064.44,4,184.86
+2023-07-17,Laptops,Asia,1322.65,3,246.63
+2023-05-17,Smartphones,Europe,990.81,2,105.25
+2023-11-14,Wearables,Europe,1165.57,2,177.07
+2023-06-14,Laptops,Asia,324.1,1,34.59
+2023-08-13,Laptops,Europe,746.18,4,205.82
+2023-11-03,Smartphones,Europe,113.06,3,16.81
+2023-08-22,Smartphones,Europe,445.35,1,94.18
+2023-06-21,Audio,Europe,1117.05,1,120.41
+2023-06-01,Wearables,Asia,1488.53,2,347.38
+2023-11-11,Wearables,Europe,238.85,3,39.32
+2023-06-09,Audio,Europe,662.09,3,185.11
+2023-04-06,Wearables,Asia,1220.1,3,338.73
+2023-08-21,Wearables,LATAM,385.65,2,63.65
+2023-06-29,Wearables,North America,877.12,2,245.76
+2023-04-23,Wearables,LATAM,1126.3,2,337.02
+2023-11-14,Wearables,Asia,962.38,2,255.11
+2023-02-21,Smartphones,North America,363.23,2,97.7
+2023-09-25,Wearables,Asia,597.54,4,89.51
+2023-10-22,Smartphones,Asia,1197.31,4,257.83
+2023-04-23,Wearables,Europe,875.92,3,99.37
+2023-04-11,Audio,North America,107.32,1,12.77
+2023-04-23,Laptops,Europe,1165.39,3,349.36
+2023-03-22,Smartphones,North America,149.44,1,24.71
+2023-07-06,Wearables,Asia,1144.03,2,285.59
+2023-04-23,Audio,Asia,383.47,1,100.21
+2023-01-02,Laptops,LATAM,1441.3,3,391.46
+2023-05-10,Smartphones,North America,615.12,3,184.24
+2023-08-08,Laptops,Europe,557.7,1,82.71
+2023-02-23,Audio,LATAM,308.44,4,33.33
+2023-12-09,Smartphones,LATAM,527.85,2,96.19
+2023-08-12,Laptops,LATAM,1327.31,2,167.26
+2023-08-13,Wearables,Europe,1494.87,3,156.19
+2023-05-06,Smartphones,LATAM,615.63,4,105.94
+2023-05-10,Laptops,Europe,728.05,1,186.93
+2023-02-22,Audio,LATAM,1110.9,2,236.88
+2023-06-21,Audio,Europe,1340.67,4,217.93
+2023-08-06,Smartphones,Asia,930.26,2,214.77
+2023-06-09,Laptops,Asia,648.14,4,94.89
+2023-07-17,Smartphones,Asia,677.67,4,69.72
+2023-09-04,Smartphones,Asia,1073.87,3,271.55
+2023-11-20,Laptops,Asia,104.51,2,23.49
+2023-07-22,Laptops,LATAM,967.43,1,244.24
+2023-07-03,Wearables,LATAM,597.69,3,64.42
+2023-05-03,Laptops,LATAM,1211.88,3,324.09
+2023-09-12,Audio,Europe,230.19,1,51.54
+2023-10-21,Smartphones,Europe,923.48,3,196.4
+2023-10-07,Smartphones,Europe,773.36,4,173.95
+2023-11-21,Audio,Europe,999.26,4,272.68
+2023-04-08,Laptops,Asia,190.8,2,41.48
+2023-07-17,Audio,Asia,911.98,2,197.16
+2023-08-28,Audio,Asia,886.08,1,264.17
+2023-05-24,Wearables,North America,884.92,2,222.42
+2023-04-07,Audio,LATAM,944.88,4,178.07
+2023-07-20,Smartphones,Europe,1047.06,1,252.84
+2023-05-04,Audio,Europe,1226.98,1,218.21
+2023-07-06,Smartphones,Asia,477.75,2,69.64
+2023-11-22,Smartphones,Europe,1255.07,4,275.33
+2023-12-15,Smartphones,Europe,797.56,1,227.81
+2023-09-16,Laptops,LATAM,207.88,4,59.42
+2023-05-28,Wearables,Asia,181.97,4,30.64
+2023-09-09,Smartphones,LATAM,567.93,4,116.73
+2023-12-12,Smartphones,North America,1198.86,2,170.63
+2023-05-27,Laptops,North America,1090.75,3,326.27
+2023-05-28,Smartphones,North America,1204.06,3,356.67
+2023-12-18,Audio,Asia,824.18,1,189.48
+2023-07-18,Audio,Europe,716.28,4,186.87
+2023-11-04,Wearables,Asia,306.43,2,74.47
+2023-05-08,Smartphones,Asia,559.47,4,122.32
+2023-02-08,Laptops,Europe,707.63,4,78.31
+2023-12-04,Audio,LATAM,224.04,2,42.78
+2023-12-26,Laptops,North America,408.86,3,96.06
+2023-05-09,Laptops,LATAM,937.52,4,220.79
+2023-09-24,Audio,North America,1129.93,4,197.31
+2023-05-31,Laptops,Asia,1497.69,3,431.84
+2023-10-25,Audio,North America,1406.36,2,187.71
+2023-04-09,Laptops,Asia,999.59,1,199.99
+2023-09-20,Audio,LATAM,689.75,3,164.28
+2023-09-09,Smartphones,Asia,990.65,1,237.19
+2023-05-24,Wearables,LATAM,1199.91,1,275.65
+2023-12-12,Audio,Europe,265.67,3,41.19
+2023-04-22,Audio,Europe,673.87,4,88.44
+2023-03-01,Wearables,Europe,1275.72,1,289.83
+2023-01-02,Audio,Asia,637.37,1,140.13
+2023-10-31,Audio,Europe,900.62,2,122.37
+2023-09-11,Laptops,North America,922.88,4,222.44
+2023-05-20,Wearables,LATAM,358.27,1,68.44
+2023-02-06,Smartphones,LATAM,607.13,2,141.8
+2023-06-09,Audio,North America,568.32,4,152.01
+2023-01-09,Wearables,Asia,136.68,3,18.31
+2023-08-21,Laptops,Asia,133.87,3,13.9
+2023-04-09,Smartphones,LATAM,1264.38,2,323.45
+2023-05-27,Wearables,Europe,482.3,3,107.04
+2023-10-31,Smartphones,Asia,825.31,1,198.01
+2023-07-27,Smartphones,Asia,518.22,4,138.69
+2023-05-11,Smartphones,North America,1416.95,1,369.2
+2023-06-01,Audio,North America,463.02,1,135.29
+2023-02-23,Audio,Europe,701.52,3,145.35
+2023-04-30,Laptops,Asia,1321.82,1,261.32
+2023-06-10,Laptops,Asia,1278.71,3,230.65
+2023-04-26,Wearables,North America,360.54,4,47.14
+2023-03-16,Laptops,Asia,1223.7,4,262.51
+2023-04-23,Smartphones,LATAM,741.46,1,115.22
+2023-04-14,Smartphones,North America,776.16,2,220.63
+2023-12-06,Audio,Europe,286.87,3,62.15
+2023-09-11,Smartphones,North America,212.84,3,46.52
+2023-08-15,Wearables,Asia,1119.12,1,191.35
+2023-04-22,Smartphones,Europe,795.05,3,87.77
+2023-04-09,Smartphones,North America,711.59,3,75.68
+2023-06-02,Wearables,LATAM,1121.31,2,207.07
+2023-12-15,Laptops,LATAM,1171.72,2,136.99
+2023-12-04,Laptops,North America,322.47,1,71.38
+2023-07-13,Wearables,LATAM,954.32,2,263.58
+2023-11-06,Audio,LATAM,289.5,1,80.07
+2023-06-12,Smartphones,LATAM,1151.93,4,267.03
+2023-07-27,Wearables,Europe,1019.74,1,145.05
+2023-06-18,Smartphones,LATAM,1439.26,4,392.34
+2023-06-10,Audio,LATAM,196.54,1,54.48
+2023-03-09,Smartphones,LATAM,179.88,3,25.06
+2023-10-16,Wearables,Europe,495.06,2,122.52
+2023-10-04,Smartphones,North America,466.39,4,73.36
+2023-10-31,Laptops,Asia,445.77,1,116.14
+2023-05-15,Audio,LATAM,1368.76,2,409.87
+2023-07-14,Audio,North America,449.36,1,47.63
+2023-05-08,Audio,LATAM,480.73,2,134.35
+2023-02-02,Wearables,Europe,1163.16,2,261.16
+2023-06-25,Audio,North America,729.64,1,215.01
+2023-01-22,Laptops,Europe,1187.39,4,229.17
+2023-08-26,Wearables,LATAM,191.51,4,51.61
+2023-06-07,Laptops,LATAM,782.6,3,88.03
+2023-02-07,Smartphones,Europe,147.06,2,24.57
+2023-08-18,Smartphones,Asia,187.71,3,21.29
+2023-12-31,Smartphones,Europe,1369.01,3,403.95
+2023-02-20,Smartphones,LATAM,294.94,1,77.69
+2023-09-21,Laptops,Europe,845.39,1,228.69
+2023-10-10,Wearables,Asia,675.53,1,194.28
+2023-01-27,Wearables,Europe,586.28,2,68.61
+2023-08-14,Audio,Asia,1359.77,1,240.84
+2023-10-04,Laptops,Asia,130.55,1,14.91
+2023-10-13,Smartphones,Europe,1029.31,2,146.33
+2023-04-07,Laptops,Europe,1448.75,2,211.33
+2023-10-11,Audio,North America,884.24,4,171.38
+2023-11-13,Audio,LATAM,1411.55,1,216.97
+2023-10-31,Laptops,Asia,173.16,1,20.81
+2023-05-27,Laptops,North America,686.31,1,91.62
+2023-01-04,Laptops,Europe,464.22,4,60.1
+2023-02-04,Wearables,LATAM,1123.15,1,330.9
+2023-07-11,Smartphones,North America,1473.82,4,371.19
+2023-02-18,Laptops,Asia,459.14,3,134.78
+2023-01-17,Laptops,North America,1015.84,4,190.93
+2023-06-21,Laptops,Asia,377.34,3,58.74
+2023-08-08,Audio,Europe,891.46,1,231.48
+2023-06-07,Audio,LATAM,749.51,3,123.86
+2023-02-15,Wearables,LATAM,1460.81,4,233.55
+2023-01-06,Smartphones,LATAM,951.94,2,139.46
+2023-04-09,Wearables,Europe,589.31,3,74.22
+2023-08-21,Smartphones,Asia,259.73,3,39.3
+2023-02-06,Audio,Europe,311.75,1,53.33
+2023-10-07,Audio,LATAM,415.44,4,97.54
+2023-12-15,Audio,Europe,451.35,3,50.78
+2023-10-29,Wearables,Europe,1290.86,3,183.43
+2023-06-30,Laptops,Europe,885.71,3,231.88
+2023-04-05,Laptops,Asia,832.75,3,107.74
+2023-04-09,Audio,North America,260.68,2,43.93
+2023-07-07,Laptops,North America,1304.2,4,355.96
+2023-04-26,Laptops,Europe,1111.94,1,145.65
+2023-07-10,Wearables,North America,194.74,1,22.7
+2023-09-10,Smartphones,North America,1090.97,2,214.82
+2023-06-10,Audio,Europe,860.95,4,138.17
+2023-09-13,Audio,Europe,214.42,3,45.6
+2023-11-19,Wearables,LATAM,741.62,2,193.39
+2023-05-08,Wearables,North America,778.57,4,99.21
+2023-01-18,Laptops,Asia,332.08,3,71.78
+2023-10-08,Audio,Europe,1423.98,2,286.36
+2023-08-11,Smartphones,LATAM,1289.97,4,166.17
+2023-02-23,Wearables,Asia,1036.63,1,233.03
+2023-02-27,Smartphones,North America,747.21,1,115.61
+2023-11-19,Smartphones,LATAM,676.47,4,133.65
+2023-12-26,Audio,Europe,1011.36,1,117.78
+2023-06-23,Audio,Asia,863.6,4,165.74
+2023-10-07,Wearables,Europe,187.18,3,30.19
+2023-04-24,Audio,North America,817.5,4,216.21
+2023-10-15,Audio,Asia,1228.97,3,136.9
+2023-12-08,Audio,North America,742.94,2,136.49
+2023-05-31,Smartphones,North America,172.74,4,33.11
+2023-05-07,Wearables,LATAM,1200.79,2,294.2
+2023-06-04,Laptops,Europe,381.91,1,82.06
+2023-09-30,Smartphones,Asia,462.07,3,107.87
+2023-04-14,Audio,North America,330.59,4,84.44
+2023-10-26,Smartphones,North America,562.3,2,153.19
+2023-09-03,Audio,Asia,1159.45,3,188.73
+2023-06-25,Audio,North America,827.14,3,171.72
+2023-02-08,Smartphones,LATAM,386.83,1,103.68
+2023-06-19,Wearables,LATAM,1328.96,1,395.88
+2023-09-04,Audio,LATAM,1331.41,3,370.0
+2023-01-26,Wearables,LATAM,1318.81,3,229.86
+2023-12-21,Laptops,North America,434.31,4,60.38
+2023-11-02,Audio,Asia,731.74,3,144.8
+2023-01-13,Wearables,Asia,1478.99,4,367.28
+2023-11-12,Wearables,Asia,1180.82,3,234.41
+2023-11-09,Laptops,Asia,138.03,1,27.14
+2023-02-05,Wearables,Europe,191.29,4,51.2
+2023-06-22,Wearables,Asia,749.5,2,129.12
+2023-01-20,Laptops,Europe,1372.91,1,373.38
+2023-11-17,Audio,Europe,854.18,4,154.91
+2023-09-21,Wearables,LATAM,796.94,4,132.01
+2023-05-22,Wearables,Europe,247.66,2,47.25
+2023-05-23,Wearables,North America,1019.49,4,257.41
+2023-04-02,Smartphones,Europe,1250.94,3,156.62
+2023-12-20,Laptops,LATAM,632.59,2,88.11
+2023-11-18,Smartphones,Europe,1185.86,1,344.24
+2023-10-15,Laptops,North America,1450.27,1,195.93
+2023-08-03,Audio,North America,385.27,3,82.27
+2023-12-08,Audio,North America,832.66,1,179.74
+2023-02-20,Wearables,LATAM,501.99,4,99.36
+2023-06-02,Laptops,LATAM,1210.0,4,277.03
+2023-07-05,Audio,Asia,908.63,3,132.63
+2023-03-04,Laptops,LATAM,988.42,1,208.09
+2023-07-09,Audio,North America,1217.08,1,212.3
+2023-05-05,Smartphones,North America,654.36,3,152.03
+2023-05-30,Audio,LATAM,1381.13,2,177.12
+2023-11-10,Smartphones,Europe,846.24,1,181.24
+2023-02-27,Audio,LATAM,321.14,2,44.01
+2023-12-08,Wearables,LATAM,1074.26,1,167.29
+2023-11-01,Smartphones,North America,1210.57,1,174.01
+2023-06-29,Audio,Asia,543.47,1,74.22
+2023-06-19,Wearables,North America,1300.05,1,344.7
+2023-11-22,Smartphones,Asia,1368.6,4,215.06
+2023-09-28,Wearables,North America,487.67,2,139.19
+2023-02-23,Laptops,LATAM,1476.93,2,434.2
+2023-04-11,Laptops,North America,297.0,1,63.63
+2023-09-21,Smartphones,North America,382.82,1,49.23
+2023-02-22,Audio,North America,357.91,2,62.6
+2023-03-01,Smartphones,LATAM,1351.59,4,350.8
+2023-04-18,Wearables,LATAM,1016.01,3,176.26
+2023-01-05,Audio,LATAM,312.95,3,36.74
+2023-04-13,Laptops,LATAM,716.45,2,151.43
+2023-07-15,Audio,Asia,961.42,1,258.65
+2023-09-19,Laptops,Asia,216.85,1,56.2
+2023-12-31,Audio,Europe,1335.38,4,180.31
+2023-12-16,Audio,LATAM,1225.04,3,287.34
+2023-02-16,Audio,Asia,807.29,4,116.33
+2023-12-21,Wearables,North America,1453.98,3,208.85
+2023-11-07,Wearables,LATAM,684.87,2,188.21
+2023-11-04,Smartphones,Europe,1477.75,3,221.56
+2023-05-24,Smartphones,Europe,1035.09,4,158.01
+2023-09-26,Laptops,Europe,988.54,4,98.98
+2023-05-04,Wearables,North America,332.34,4,91.11
+2023-04-16,Laptops,Asia,1334.7,2,345.05
+2023-06-07,Smartphones,North America,698.49,3,157.49
+2023-05-27,Laptops,LATAM,327.13,3,81.8
+2023-05-25,Smartphones,Europe,117.65,4,15.34
+2023-04-30,Wearables,North America,883.66,3,169.37
+2023-11-15,Audio,North America,838.36,1,142.73
+2023-10-02,Wearables,Asia,1107.1,1,131.47
+2023-04-02,Laptops,Asia,1346.36,1,265.54
+2023-02-27,Laptops,Europe,211.17,3,60.0
+2023-12-12,Wearables,North America,1124.1,2,121.42
+2023-08-17,Wearables,North America,362.38,2,57.36
+2023-04-27,Smartphones,Asia,1301.45,2,184.17
+2023-11-14,Laptops,North America,1246.69,2,184.05
+2023-10-06,Laptops,North America,857.11,1,241.44
+2023-05-07,Wearables,North America,1094.34,1,211.88
+2023-05-09,Audio,Asia,540.09,4,104.38
+2023-02-27,Laptops,Europe,759.64,3,191.52
+2023-05-02,Audio,LATAM,1250.29,3,163.66
+2023-01-01,Wearables,Europe,742.97,2,146.7
+2023-08-27,Wearables,LATAM,600.92,1,111.77
+2023-10-17,Smartphones,North America,791.9,2,173.73
+2023-04-06,Laptops,Europe,1259.55,4,377.75
+2023-05-06,Audio,LATAM,569.29,3,144.54
+2023-04-28,Smartphones,Asia,343.27,3,61.64
+2023-02-17,Laptops,Asia,1096.82,2,291.22
+2023-03-30,Smartphones,Europe,1256.37,4,168.53
+2023-08-25,Wearables,Europe,240.89,3,25.56
+2023-09-29,Laptops,North America,435.82,4,61.4
+2023-07-08,Smartphones,Europe,298.76,4,50.22
+2023-07-11,Smartphones,North America,587.12,2,118.67
+2023-03-10,Audio,North America,730.49,1,162.92
+2023-10-05,Smartphones,Asia,1148.36,2,323.98
+2023-12-15,Laptops,Asia,1011.61,1,204.32
+2023-09-04,Laptops,LATAM,969.3,4,194.11
+2023-03-17,Audio,Asia,593.32,1,65.29
+2023-06-03,Laptops,Asia,1278.03,4,136.73
+2023-05-24,Wearables,Europe,759.8,3,159.73
+2023-03-27,Laptops,Asia,1470.75,3,275.97
+2023-07-04,Laptops,LATAM,987.8,3,264.57
+2023-10-12,Smartphones,Europe,276.77,2,36.57
+2023-08-08,Smartphones,LATAM,1046.65,2,109.89
+2023-03-10,Laptops,Asia,555.15,4,105.37
+2023-02-16,Audio,LATAM,1060.86,3,156.47
+2023-04-04,Smartphones,Europe,197.5,2,21.71
+2023-08-26,Audio,North America,344.83,3,84.46
+2023-07-23,Laptops,LATAM,1298.03,2,158.77
+2023-08-06,Laptops,LATAM,418.05,1,92.67
+2023-12-07,Wearables,Europe,1271.86,1,198.68
+2023-02-08,Smartphones,Europe,490.99,3,66.14
+2023-04-10,Laptops,LATAM,1000.03,4,175.96
+2023-10-16,Wearables,Asia,1071.81,2,278.98
+2023-09-11,Smartphones,LATAM,817.72,2,145.9
+2023-08-10,Laptops,Europe,527.43,1,131.94
+2023-12-23,Laptops,North America,397.7,1,49.75
+2023-01-23,Smartphones,North America,146.47,4,37.28
+2023-09-07,Smartphones,Asia,525.52,4,77.45
+2023-01-10,Smartphones,LATAM,1014.43,4,238.88
+2023-09-03,Laptops,North America,1413.63,3,301.32
+2023-11-21,Laptops,LATAM,1319.69,1,377.21
+2023-04-10,Wearables,Europe,1172.49,3,208.08
+2023-10-17,Audio,North America,1203.83,1,136.31
+2023-06-29,Smartphones,Asia,1030.98,1,107.05
+2023-08-11,Laptops,Europe,464.4,2,123.24
+2023-09-07,Laptops,Asia,1370.07,1,280.79
+2023-05-27,Smartphones,Europe,1039.03,1,265.0
+2023-04-06,Audio,North America,884.62,3,129.94
+2023-09-14,Smartphones,Asia,255.39,1,43.17
+2023-11-21,Audio,Asia,725.88,3,76.96
+2023-01-04,Laptops,Europe,744.5,4,217.62
+2023-01-16,Audio,Asia,1310.39,1,306.07
+2023-10-07,Wearables,Europe,865.31,1,248.03
+2023-12-02,Laptops,Europe,632.56,3,96.84
+2023-09-04,Wearables,Europe,1467.52,4,326.22
+2023-09-15,Smartphones,Europe,255.01,2,60.11
+2023-06-09,Smartphones,North America,691.57,4,113.08
+2023-12-06,Smartphones,Europe,158.83,3,42.82
+2023-06-01,Audio,LATAM,1135.87,4,328.76
+2023-06-27,Laptops,Asia,1385.31,3,383.69
+2023-06-12,Smartphones,LATAM,492.05,3,121.94
+2023-02-02,Smartphones,North America,1301.68,2,202.4
+2023-06-28,Laptops,LATAM,509.11,1,79.59
+2023-04-11,Smartphones,Asia,1375.08,3,402.45
+2023-09-25,Wearables,LATAM,1155.55,3,117.93
+2023-11-19,Laptops,North America,1226.87,2,298.39
+2023-03-06,Laptops,Europe,125.21,3,30.21
+2023-06-17,Laptops,LATAM,1447.93,1,325.12
+2023-11-26,Wearables,North America,1117.34,2,332.99
+2023-02-12,Laptops,North America,526.65,1,85.52
+2023-02-13,Wearables,Asia,1261.15,1,211.87
+2023-10-12,Laptops,Asia,494.13,2,57.21
+2023-01-12,Audio,LATAM,1321.86,3,249.25
+2023-04-05,Smartphones,Europe,257.61,1,39.21
+2023-10-29,Audio,North America,1085.16,1,183.04
+2023-09-10,Smartphones,LATAM,856.98,1,228.74
+2023-08-30,Wearables,North America,235.15,1,67.51
+2023-02-04,Audio,North America,438.65,2,60.16
+2023-08-03,Laptops,Europe,117.37,2,20.48
+2023-12-03,Smartphones,Europe,756.28,4,216.09
+2023-03-31,Smartphones,LATAM,521.77,4,58.63
+2023-09-21,Audio,Europe,937.7,1,111.09
+2023-04-03,Wearables,Europe,516.13,3,68.42
+2023-03-31,Audio,LATAM,519.89,1,113.88
+2023-04-25,Wearables,Europe,1140.47,3,148.37
+2023-04-15,Wearables,Asia,167.4,1,49.15
+2023-07-15,Smartphones,North America,1364.05,4,258.27
+2023-11-10,Audio,North America,1293.17,4,259.03
+2023-04-24,Audio,North America,1034.93,3,154.55
+2023-03-16,Wearables,North America,930.51,1,180.7
+2023-08-05,Audio,LATAM,1349.22,3,313.54
+2023-10-04,Laptops,North America,359.46,4,89.95
+2023-09-06,Laptops,North America,210.56,1,52.8
+2023-06-13,Audio,North America,435.31,1,93.84
+2023-12-23,Audio,North America,1212.41,3,340.53
+2023-07-11,Wearables,Asia,148.54,2,39.14
+2023-08-15,Laptops,North America,915.93,3,230.27
+2023-06-26,Laptops,Asia,1493.61,4,165.97
+2023-04-09,Smartphones,LATAM,1297.97,4,131.58
+2023-02-05,Wearables,Europe,830.02,4,118.27
+2023-04-06,Smartphones,North America,189.1,4,44.0
+2023-06-01,Laptops,Europe,1263.92,4,230.34
+2023-05-31,Wearables,Europe,938.57,2,169.39
+2023-07-09,Audio,LATAM,260.91,1,72.25
+2023-08-12,Wearables,Europe,231.4,3,64.59
+2023-02-06,Audio,Asia,1373.48,3,387.09
+2023-09-25,Audio,Europe,1036.88,4,168.78
+2023-07-02,Wearables,Europe,1261.0,3,300.38
+2023-01-13,Audio,Europe,1330.57,4,205.34
+2023-10-06,Smartphones,North America,900.48,2,124.38
+2023-08-05,Laptops,North America,824.42,2,112.88
+2023-12-21,Audio,Asia,702.6,1,118.33
+2023-12-27,Smartphones,Asia,543.73,2,101.13
+2023-10-13,Audio,North America,708.43,2,188.58
+2023-09-30,Laptops,Asia,1183.43,1,146.72
+2023-03-03,Smartphones,North America,942.69,3,232.83
+2023-03-25,Laptops,LATAM,1349.53,4,278.4
+2023-08-05,Laptops,Europe,720.73,4,113.58
+2023-12-08,Smartphones,Europe,949.93,3,188.62
+2023-07-06,Smartphones,Asia,983.83,1,157.4
+2023-01-19,Smartphones,North America,928.38,3,203.52
+2023-06-26,Wearables,North America,1083.69,2,202.4
+2023-04-10,Smartphones,Asia,432.41,1,57.46
+2023-08-21,Smartphones,North America,817.31,1,100.79
+2023-03-17,Smartphones,LATAM,245.91,1,51.48
+2023-09-22,Smartphones,Europe,638.32,4,179.04
+2023-10-11,Audio,Asia,782.73,3,132.12
+2023-07-25,Wearables,Asia,1013.11,1,249.83
+2023-08-11,Laptops,North America,1430.74,1,331.55
+2023-02-21,Smartphones,Asia,940.91,1,269.39
+2023-12-05,Audio,LATAM,1141.03,3,301.46
+2023-05-24,Audio,North America,808.77,4,172.53
+2023-03-10,Audio,North America,987.75,2,228.57
+2023-04-09,Laptops,North America,199.31,4,55.74
+2023-01-25,Smartphones,North America,456.15,1,82.06
+2023-02-22,Wearables,LATAM,606.59,4,100.31
+2023-05-31,Wearables,North America,761.49,4,77.8
+2023-05-24,Audio,Asia,163.91,2,43.49
+2023-02-26,Laptops,LATAM,296.03,3,77.03
+2023-02-08,Laptops,Europe,487.54,3,58.94
+2023-04-19,Laptops,Europe,1460.15,4,314.47
+2023-06-30,Wearables,Asia,563.89,4,108.72
+2023-02-11,Audio,Asia,774.86,3,95.88
+2023-07-05,Smartphones,LATAM,374.54,3,110.91
+2023-08-11,Wearables,Europe,955.09,2,136.52
+2023-05-02,Audio,Europe,492.96,1,55.92
+2023-05-13,Audio,Europe,389.79,4,85.35
+2023-06-12,Smartphones,Europe,823.2,3,203.97
+2023-08-03,Smartphones,Europe,107.71,4,11.47
+2023-08-09,Smartphones,North America,110.73,4,25.66
+2023-08-23,Laptops,Asia,406.7,3,83.97
+2023-11-27,Smartphones,North America,151.41,2,18.27
+2023-05-26,Audio,Europe,251.24,4,33.79
+2023-08-27,Smartphones,LATAM,574.4,2,122.69
+2023-03-17,Audio,LATAM,1223.62,3,194.89
+2023-01-09,Wearables,Europe,900.87,1,259.15
+2023-03-15,Laptops,Europe,817.73,1,215.67
+2023-09-10,Wearables,LATAM,510.88,4,151.58
+2023-08-18,Wearables,North America,1404.46,3,213.39
+2023-01-07,Audio,North America,655.82,2,192.77
+2023-06-23,Wearables,Europe,221.93,4,41.33
+2023-05-21,Audio,North America,963.89,3,163.38
+2023-06-17,Smartphones,LATAM,259.37,3,28.55
+2023-06-19,Smartphones,North America,583.31,2,64.49
+2023-10-10,Audio,Europe,810.38,4,193.2
+2023-05-02,Smartphones,LATAM,1323.91,3,253.64
+2023-07-13,Laptops,North America,790.97,3,114.93
+2023-01-05,Wearables,Asia,1083.16,3,241.32
+2023-01-29,Laptops,LATAM,1489.94,2,224.34
+2023-06-14,Wearables,LATAM,284.08,4,61.23
+2023-12-05,Smartphones,Asia,484.62,4,83.28
+2023-05-16,Laptops,Asia,652.41,4,172.7
+2023-12-31,Smartphones,LATAM,690.56,4,182.4
+2023-11-17,Wearables,Asia,675.43,1,132.03
+2023-12-08,Audio,Europe,1370.66,1,233.24
+2023-05-25,Audio,Europe,1099.65,4,189.7
+2023-11-23,Laptops,Europe,951.07,2,248.37
+2023-08-05,Smartphones,LATAM,533.12,1,88.3
+2023-10-28,Smartphones,Asia,1253.31,3,177.73
+2023-05-12,Laptops,Asia,1437.08,1,168.05
+2023-10-19,Audio,North America,1249.68,3,241.61
+2023-03-11,Wearables,North America,102.19,4,20.07
+2023-09-09,Laptops,Asia,990.96,1,265.76
+2023-10-02,Wearables,Asia,171.59,2,24.75
+2023-12-30,Audio,Asia,460.65,1,81.17
+2023-07-01,Smartphones,LATAM,183.33,1,47.97
+2023-06-16,Audio,Asia,945.31,1,250.25
+2023-04-01,Laptops,North America,1061.23,4,187.76
+2023-07-21,Smartphones,LATAM,260.28,2,49.93
+2023-12-12,Laptops,Asia,637.37,1,102.4
+2023-01-19,Laptops,North America,738.73,2,211.65
+2023-02-08,Audio,LATAM,616.67,4,76.3
+2023-05-06,Laptops,Asia,269.44,3,77.26
+2023-06-22,Audio,Asia,686.53,1,162.55
+2023-05-21,Smartphones,Asia,1151.65,2,237.6
+2023-08-30,Audio,LATAM,199.41,2,21.24
+2023-08-08,Smartphones,North America,212.25,4,41.41
+2023-05-06,Audio,North America,596.68,1,108.33
+2023-02-27,Wearables,Europe,1418.42,3,187.58
+2023-05-28,Wearables,Asia,1036.0,2,239.61
+2023-11-13,Laptops,Europe,1050.14,1,308.98
+2023-12-27,Audio,Europe,606.69,3,128.88
+2023-01-01,Audio,North America,931.13,2,226.22
+2023-12-14,Smartphones,LATAM,114.18,2,12.98
+2023-07-09,Laptops,LATAM,990.53,3,181.8
+2023-07-10,Audio,North America,1378.6,3,169.94
+2023-11-08,Laptops,LATAM,957.6,4,213.12
+2023-04-27,Wearables,Europe,1323.18,1,380.67
+2023-05-14,Audio,Asia,1113.56,1,258.74
+2023-02-27,Audio,North America,268.78,4,31.01
+2023-02-13,Laptops,Asia,1363.43,2,233.06
+2023-06-22,Audio,LATAM,193.02,3,40.56
+2023-06-09,Laptops,Asia,847.55,3,153.1
+2023-06-22,Audio,LATAM,298.99,3,79.75
+2023-11-13,Smartphones,LATAM,116.39,2,30.6
+2023-10-30,Laptops,Europe,690.85,3,153.62
+2023-05-29,Audio,LATAM,513.06,3,89.63
+2023-03-21,Wearables,Europe,780.4,4,117.89
+2023-08-01,Audio,Europe,908.08,2,110.04
+2023-07-22,Wearables,Europe,161.23,1,27.57
+2023-09-09,Wearables,North America,272.2,4,49.71
+2023-08-17,Smartphones,North America,882.1,4,207.44
+2023-06-13,Laptops,LATAM,580.43,1,134.45
+2023-08-15,Audio,Europe,1120.84,4,127.8
+2023-05-27,Smartphones,North America,1013.21,2,181.42
+2023-01-20,Audio,Europe,1283.85,3,175.06
+2023-02-16,Wearables,Asia,1069.49,2,140.49
+2023-08-21,Laptops,Asia,701.9,1,186.33
+2023-11-01,Audio,Asia,1042.15,1,112.95
+2023-01-14,Audio,LATAM,485.53,4,89.26
+2023-05-23,Wearables,Europe,528.84,2,70.67
+2023-01-01,Audio,Asia,1204.58,2,332.3
+2023-02-23,Audio,North America,724.99,1,153.27
+2023-09-16,Wearables,Asia,1217.73,2,178.12
+2023-05-24,Smartphones,Asia,1251.39,1,250.89
+2023-01-12,Wearables,Asia,1300.59,2,320.33
+2023-11-26,Smartphones,LATAM,1383.29,2,403.4
+2023-08-12,Laptops,North America,703.38,2,101.35
+2023-09-29,Smartphones,Europe,546.41,1,151.48
+2023-12-24,Smartphones,North America,915.08,4,262.5
+2023-06-05,Laptops,Europe,619.64,2,175.53
+2023-01-08,Smartphones,LATAM,941.5,1,213.8
+2023-05-02,Wearables,LATAM,1087.82,1,245.81
+2023-12-14,Smartphones,LATAM,1063.77,2,192.16
+2023-06-13,Laptops,LATAM,624.37,2,156.39
+2023-03-31,Wearables,Europe,333.6,4,68.81
+2023-05-16,Laptops,Asia,702.74,1,165.49
+2023-07-05,Laptops,Europe,299.63,1,55.64
+2023-11-12,Audio,North America,1346.14,3,331.55
+2023-06-27,Audio,LATAM,584.23,1,154.76
+2023-01-28,Laptops,LATAM,316.24,4,40.89
+2023-08-08,Laptops,North America,135.63,3,36.16
+2023-12-23,Laptops,Europe,1004.15,3,208.92
+2023-02-10,Audio,Asia,991.66,3,266.69
+2023-08-16,Audio,Asia,576.85,2,107.44
+2023-07-11,Smartphones,North America,200.4,2,35.23
+2023-05-25,Smartphones,Asia,673.48,1,190.6
+2023-07-20,Laptops,Europe,535.7,3,80.48
+2023-07-31,Wearables,Europe,1047.97,4,281.74
+2023-08-08,Wearables,North America,948.09,2,186.59
+2023-08-28,Audio,Europe,610.43,4,123.81
+2023-02-15,Audio,LATAM,405.05,4,65.49
+2023-02-04,Audio,North America,1483.25,2,318.32
+2023-09-10,Laptops,Europe,735.6,2,121.41
+2023-03-23,Wearables,North America,1063.58,2,114.71
+2023-09-13,Smartphones,Asia,296.77,2,45.82
+2023-07-16,Laptops,Europe,779.83,3,78.98
+2023-10-30,Smartphones,LATAM,138.55,3,40.97
+2023-01-10,Smartphones,Europe,807.64,3,236.76
+2023-11-08,Laptops,North America,1449.62,3,259.53
+2023-10-13,Smartphones,North America,637.89,1,156.71
+2023-08-30,Wearables,Europe,154.59,3,26.15
+2023-09-08,Smartphones,LATAM,143.34,2,33.57
+2023-12-31,Wearables,LATAM,643.18,4,167.93
+2023-01-05,Wearables,LATAM,324.03,3,93.76
+2023-04-29,Wearables,North America,132.69,1,23.89
+2023-10-16,Audio,Europe,1158.7,2,297.39
+2023-03-06,Smartphones,Asia,741.93,4,113.65
+2023-05-26,Laptops,North America,504.94,4,150.51
+2023-08-12,Laptops,LATAM,1360.12,3,143.02
+2023-08-27,Smartphones,Europe,262.59,4,57.96
+2023-06-26,Audio,LATAM,1438.29,3,333.54
+2023-09-24,Audio,Asia,539.55,3,128.2
+2023-12-07,Wearables,LATAM,1343.77,2,166.73
+2023-10-09,Smartphones,LATAM,944.12,2,271.63
+2023-03-04,Smartphones,Asia,1257.39,1,171.3
+2023-08-05,Laptops,Europe,1477.62,2,331.8
+2023-12-08,Smartphones,North America,503.77,2,72.81
+2023-11-11,Audio,Europe,1445.59,3,233.38
+2023-10-10,Smartphones,Asia,645.27,2,135.05
+2023-06-26,Laptops,LATAM,639.72,3,117.35
+2023-04-08,Wearables,Europe,576.54,3,76.13
+2023-04-15,Laptops,North America,857.97,2,115.13
+2023-04-09,Laptops,Asia,315.8,1,57.99
+2023-11-07,Wearables,Europe,875.2,1,220.07
+2023-01-06,Laptops,North America,858.39,4,240.0
+2023-07-16,Laptops,Asia,1166.66,4,136.3
+2023-12-17,Smartphones,North America,1267.11,2,226.33
+2023-05-13,Smartphones,Asia,716.62,1,86.03
+2023-12-24,Wearables,LATAM,523.27,3,54.06
+2023-09-16,Smartphones,Europe,463.07,4,107.59
+2023-01-23,Smartphones,North America,372.47,3,82.13
+2023-02-22,Laptops,Asia,180.71,4,23.96
+2023-06-14,Audio,North America,579.43,2,85.04
+2023-07-21,Smartphones,North America,478.35,1,50.1
+2023-03-24,Audio,Europe,1452.98,4,387.93
+2023-05-25,Smartphones,LATAM,880.79,1,259.78
+2023-03-26,Smartphones,North America,586.19,3,74.5
+2023-03-19,Wearables,Asia,912.65,2,133.52
+2023-01-01,Wearables,Asia,294.88,1,80.7
+2023-02-20,Wearables,LATAM,721.66,2,205.88
+2023-06-22,Audio,Asia,976.73,1,179.65
+2023-07-24,Laptops,LATAM,784.46,3,86.39
+2023-09-17,Smartphones,Asia,662.49,3,71.47
+2023-10-15,Smartphones,Europe,1491.39,2,320.34
+2023-02-03,Smartphones,North America,1332.44,3,237.95
+2023-12-14,Audio,Europe,972.77,4,102.85
+2023-04-05,Wearables,North America,897.13,1,194.36
+2023-03-13,Laptops,North America,968.92,3,99.08
+2023-02-08,Audio,North America,381.84,4,98.31
+2023-06-03,Wearables,Europe,653.19,2,105.35
+2023-09-07,Audio,North America,155.24,4,16.77
+2023-06-11,Laptops,Europe,765.76,2,166.68
+2023-04-28,Wearables,LATAM,860.23,2,154.44
+2023-09-16,Audio,Asia,418.85,1,123.46
+2023-11-02,Laptops,Asia,1449.64,1,302.74
+2023-09-25,Smartphones,North America,1373.24,4,212.92
+2023-02-23,Laptops,Europe,1111.0,1,268.74
+2023-08-24,Smartphones,Asia,846.74,1,130.65
+2023-08-10,Audio,Europe,1317.96,1,370.15
+2023-09-08,Wearables,Europe,282.91,4,49.49
+2023-11-09,Wearables,North America,1206.71,3,253.38
+2023-04-22,Audio,Asia,274.75,1,30.25
+2023-09-12,Wearables,North America,1211.89,1,224.47
+2023-10-30,Wearables,North America,486.07,4,129.52
+2023-07-26,Smartphones,Asia,1327.93,3,346.76
+2023-08-17,Audio,Asia,1421.66,1,205.95
+2023-12-07,Laptops,LATAM,308.31,2,44.77
+2023-03-07,Smartphones,LATAM,747.75,4,197.0
+2023-03-16,Audio,Europe,1473.38,1,421.5
+2023-04-13,Smartphones,Asia,776.77,1,92.49
+2023-07-11,Laptops,LATAM,1308.97,2,248.72
+2023-09-09,Laptops,Europe,924.22,2,154.8
+2023-08-14,Audio,Europe,625.46,4,171.46
+2023-10-21,Laptops,Europe,500.1,4,58.36
+2023-11-02,Smartphones,LATAM,384.51,2,54.69
+2023-04-08,Laptops,Asia,1166.52,4,292.21
+2023-12-04,Smartphones,North America,641.16,2,70.69
+2023-10-13,Smartphones,Europe,815.79,1,161.94
+2023-12-01,Laptops,LATAM,789.26,2,148.71
+2023-12-13,Audio,LATAM,908.19,2,151.56
+2023-11-04,Wearables,North America,1311.81,3,234.7
+2023-09-06,Laptops,North America,1473.04,2,303.43
+2023-06-15,Smartphones,LATAM,670.62,2,88.71
+2023-12-01,Smartphones,Asia,1258.53,3,269.83
+2023-01-30,Laptops,North America,1170.34,4,305.56
+2023-09-04,Audio,LATAM,902.94,3,227.57
+2023-04-16,Audio,North America,1438.47,1,188.12
+2023-02-20,Smartphones,Asia,380.66,3,49.43
+2023-03-22,Smartphones,Europe,252.97,1,38.87
+2023-05-13,Audio,North America,1295.55,4,223.11
+2023-10-12,Wearables,Asia,714.81,3,129.87
+2023-05-18,Laptops,LATAM,1285.76,3,303.36
+2023-07-03,Smartphones,North America,1350.33,4,150.34
+2023-11-26,Smartphones,North America,187.44,1,20.04
+2023-09-30,Audio,LATAM,1336.85,3,238.47
+2023-12-06,Laptops,Europe,727.65,1,174.22
+2023-03-10,Audio,LATAM,814.61,3,112.98
+2023-02-03,Laptops,North America,977.23,2,223.1
+2023-09-19,Laptops,LATAM,1396.94,3,212.29
+2023-02-22,Laptops,Asia,126.76,4,35.14
+2023-07-24,Smartphones,LATAM,767.58,4,214.26
+2023-05-06,Wearables,North America,1062.81,1,169.47
+2023-08-23,Audio,LATAM,1111.79,3,162.32
+2023-02-12,Wearables,Europe,1069.55,1,194.94
+2023-08-28,Audio,LATAM,288.21,1,42.69
+2023-04-21,Laptops,Europe,519.15,2,121.73
+2023-09-06,Smartphones,Asia,602.2,2,159.71
+2023-05-31,Wearables,Europe,1226.21,4,287.69
+2023-07-02,Smartphones,LATAM,490.26,1,129.86
+2023-12-02,Audio,North America,394.99,4,70.86
+2023-04-05,Smartphones,Europe,1440.43,3,189.08
+2023-01-08,Smartphones,Asia,112.41,1,27.83
+2023-12-26,Wearables,Europe,1496.95,1,257.62
+2023-07-03,Laptops,Europe,1047.55,3,245.39
+2023-10-08,Smartphones,Europe,1259.86,3,194.18
+2023-07-14,Laptops,Asia,512.47,4,59.57
+2023-12-18,Audio,LATAM,120.04,4,35.83
+2023-07-14,Smartphones,Europe,1133.02,3,148.7
+2023-06-04,Wearables,Europe,1267.8,4,377.4
+2023-04-03,Audio,North America,1136.67,3,335.84
+2023-06-09,Audio,Asia,299.99,1,77.63
+2023-03-02,Wearables,Europe,1154.8,1,267.78
+2023-05-02,Smartphones,Asia,1176.49,2,253.61
+2023-02-20,Smartphones,Europe,1021.96,1,279.22
+2023-10-04,Audio,LATAM,1172.56,3,185.13
+2023-01-05,Smartphones,LATAM,1284.29,4,248.56
+2023-04-02,Laptops,Europe,959.05,2,214.71
+2023-06-19,Wearables,LATAM,224.05,4,40.83
+2023-11-13,Laptops,Europe,782.68,3,145.19
+2023-01-22,Smartphones,LATAM,208.71,1,34.66
+2023-11-22,Audio,North America,670.56,2,142.73
+2023-01-01,Wearables,North America,669.95,3,180.96
+2023-05-13,Smartphones,North America,192.41,2,27.0
+2023-08-21,Smartphones,Asia,588.35,2,168.79
+2023-01-12,Audio,Asia,255.4,1,60.74
+2023-12-12,Audio,North America,1231.53,3,325.93
+2023-02-15,Laptops,Asia,1426.76,4,301.39
+2023-02-03,Wearables,LATAM,201.24,2,51.5
+2023-03-19,Wearables,Europe,1437.16,2,148.37
+2023-08-06,Audio,Europe,831.61,4,219.28
+2023-10-28,Laptops,Europe,519.39,3,56.11
+2023-03-14,Wearables,North America,207.61,2,57.71
+2023-10-09,Audio,Asia,800.87,2,238.97
+2023-09-06,Smartphones,LATAM,1212.32,2,192.53
+2023-02-16,Wearables,LATAM,1089.92,3,154.84
+2023-05-01,Laptops,North America,170.32,3,43.1
+2023-08-02,Laptops,LATAM,202.06,4,30.43
+2023-08-27,Laptops,LATAM,664.02,3,181.35
+2023-02-25,Smartphones,LATAM,513.41,3,61.9
+2023-12-16,Wearables,LATAM,425.34,1,53.25
+2023-04-17,Wearables,Asia,493.41,4,145.97
+2023-11-15,Smartphones,LATAM,1224.88,2,287.56
+2023-02-17,Wearables,Europe,1400.92,3,377.38
+2023-03-02,Smartphones,North America,667.14,2,109.99
+2023-12-03,Smartphones,Asia,1368.56,2,322.02
+2023-01-26,Smartphones,LATAM,550.09,1,120.39
+2023-10-19,Laptops,Asia,767.01,3,169.23
+2023-09-14,Wearables,LATAM,416.44,4,98.49
+2023-01-08,Smartphones,Europe,996.67,3,214.36
+2023-04-23,Wearables,North America,1470.57,2,273.25
+2023-12-21,Laptops,LATAM,944.89,4,146.63
+2023-09-10,Smartphones,LATAM,600.94,3,152.47
+2023-06-29,Audio,LATAM,1006.94,2,146.26
+2023-07-26,Laptops,LATAM,272.09,2,64.89
+2023-10-30,Audio,North America,1344.12,1,197.14
+2023-05-07,Wearables,North America,804.32,1,181.03
+2023-02-25,Wearables,Europe,729.09,1,181.85
+2023-08-02,Laptops,North America,920.21,2,132.27
+2023-01-14,Wearables,LATAM,974.7,3,109.16
+2023-01-28,Audio,Europe,200.49,1,25.3
+2023-03-19,Smartphones,Europe,1055.66,3,233.51
+2023-08-04,Smartphones,Europe,438.7,1,118.4
+2023-12-31,Smartphones,LATAM,1099.53,4,119.85
+2023-06-03,Laptops,Asia,1251.55,4,308.92
+2023-01-14,Wearables,LATAM,1225.54,1,206.21
+2023-07-06,Audio,North America,873.5,2,170.95
+2023-11-08,Wearables,North America,828.24,1,236.69
+2023-01-07,Wearables,LATAM,300.03,1,49.92
+2023-01-03,Wearables,LATAM,1185.48,2,228.88
+2023-04-21,Smartphones,Europe,479.97,4,49.31
+2023-08-26,Audio,LATAM,795.37,3,92.52
+2023-12-29,Audio,Europe,497.98,1,75.55
+2023-08-27,Wearables,North America,287.36,2,30.34
+2023-10-01,Smartphones,Europe,981.38,1,222.06
+2023-10-21,Smartphones,LATAM,176.06,2,32.62
+2023-08-15,Audio,North America,1148.1,3,240.68
+2023-01-15,Smartphones,Asia,544.62,3,73.49
+2023-07-11,Smartphones,Europe,100.19,4,15.95
+2023-04-29,Smartphones,North America,815.58,2,189.84
+2023-01-28,Laptops,Europe,165.59,2,48.53
+2023-07-21,Wearables,North America,486.64,4,53.57
+2023-02-08,Audio,North America,1089.77,4,303.04
+2023-09-30,Audio,Europe,187.77,2,40.44
+2023-08-19,Laptops,Asia,1275.07,4,271.31
+2023-03-27,Wearables,North America,105.35,3,21.08
+2023-05-06,Audio,North America,445.55,1,50.74
+2023-10-27,Smartphones,North America,1137.27,3,134.17
+2023-01-25,Audio,Asia,542.78,4,119.51
+2023-05-25,Smartphones,Asia,242.65,2,40.81
+2023-01-13,Laptops,LATAM,604.33,2,171.3
+2023-07-31,Smartphones,Europe,478.55,3,86.77
+2023-01-25,Audio,Asia,1279.8,2,164.65
+2023-03-09,Audio,Europe,538.69,4,130.87
+2023-03-08,Audio,LATAM,1204.51,3,191.12
+2023-08-21,Laptops,Europe,1348.62,2,276.59
+2023-04-19,Laptops,Asia,707.34,1,169.46
+2023-05-26,Wearables,Europe,1373.92,1,384.77
+2023-04-21,Audio,Asia,628.25,4,162.36
+2023-08-16,Smartphones,Europe,1449.71,2,341.08
+2023-04-21,Laptops,Asia,225.01,4,53.09
+2023-02-03,Audio,Asia,1061.83,3,307.07
+2023-04-21,Audio,Europe,791.34,1,125.95
+2023-09-21,Laptops,LATAM,642.71,3,64.41
+2023-08-24,Wearables,North America,985.8,2,152.2
+2023-03-24,Laptops,LATAM,1085.4,4,155.84
+2023-02-11,Laptops,Europe,106.11,4,24.66
+2023-04-11,Smartphones,LATAM,333.73,4,75.67
+2023-01-06,Smartphones,Asia,1098.26,3,240.18
+2023-06-29,Wearables,North America,1032.94,1,106.65
+2023-10-09,Audio,Europe,1452.47,3,356.95
+2023-11-16,Laptops,Europe,1165.45,3,191.96
+2023-08-14,Wearables,Europe,1431.08,2,333.46
+2023-11-11,Smartphones,North America,1083.56,2,228.97
+2023-12-31,Laptops,Asia,517.27,2,87.18
+2023-08-17,Audio,Europe,247.51,1,31.41
+2023-10-16,Smartphones,LATAM,1194.55,1,142.01
+2023-05-30,Smartphones,Europe,1001.81,2,266.79
+2023-10-04,Smartphones,Europe,167.46,2,47.5
+2023-07-17,Wearables,Europe,604.07,1,138.91
+2023-03-11,Audio,Europe,1439.52,4,173.73
+2023-04-22,Laptops,Asia,800.56,1,144.43
+2023-01-04,Wearables,LATAM,705.82,1,173.48
+2023-12-16,Wearables,Asia,740.78,1,189.61
+2023-11-27,Wearables,LATAM,392.44,2,48.52
+2023-11-14,Smartphones,Europe,616.19,4,61.62
+2023-12-16,Audio,North America,617.74,1,149.76
+2023-04-05,Wearables,Asia,173.3,2,29.69
+2023-06-01,Laptops,North America,1174.59,3,177.24
+2023-11-07,Audio,Asia,683.11,3,70.07
+2023-05-17,Laptops,Europe,1251.05,1,260.29
+2023-09-04,Audio,Asia,1290.49,3,348.73
+2023-08-31,Laptops,Europe,396.79,4,115.67
+2023-01-31,Smartphones,Asia,1020.29,3,217.47
+2023-02-09,Wearables,Europe,761.19,3,154.44
+2023-08-17,Laptops,Europe,1332.22,4,155.88
+2023-02-05,Audio,LATAM,402.04,1,84.34
+2023-08-11,Wearables,Europe,1048.94,1,184.61
+2023-01-06,Wearables,LATAM,950.85,4,210.54
+2023-11-18,Audio,Europe,513.42,4,91.26
+2023-08-08,Laptops,North America,291.24,4,43.12
+2023-03-16,Smartphones,Europe,1012.3,3,120.46
+2023-01-04,Smartphones,North America,1134.04,4,184.83
+2023-12-01,Laptops,North America,541.88,2,64.66
+2023-05-14,Wearables,Europe,1002.77,3,135.75
+2023-04-28,Wearables,North America,653.18,1,194.3
+2023-04-04,Wearables,LATAM,1098.49,1,207.42
+2023-03-03,Wearables,Asia,378.9,1,78.2
+2023-07-13,Laptops,Europe,1346.3,3,369.86
+2023-12-01,Wearables,North America,502.37,2,150.27
+2023-07-22,Audio,Europe,614.9,4,133.15
+2023-01-26,Wearables,LATAM,181.33,4,47.6
+2023-06-22,Smartphones,Europe,256.12,1,42.36
+2023-10-27,Wearables,Europe,822.21,1,132.5
+2023-05-13,Laptops,North America,474.63,3,85.69
+2023-11-22,Smartphones,LATAM,1269.67,2,297.74
+2023-04-28,Laptops,Asia,120.57,4,28.51
+2023-11-20,Laptops,Asia,630.73,3,102.84
+2023-10-02,Smartphones,North America,572.28,4,72.47
+2023-07-31,Laptops,Europe,127.06,1,28.78
+2023-08-13,Laptops,North America,274.12,4,34.45
+2023-01-20,Wearables,North America,679.1,2,146.48
+2023-04-23,Audio,North America,790.01,2,188.56
+2023-05-20,Laptops,Europe,666.01,1,159.92
+2023-02-16,Laptops,LATAM,843.31,2,211.41
+2023-01-01,Laptops,North America,933.18,2,256.22
+2023-03-31,Wearables,Europe,113.89,3,22.78
+2023-05-22,Audio,LATAM,749.73,4,184.47
+2023-11-16,Smartphones,North America,1448.9,1,324.31
+2023-02-07,Wearables,Asia,826.65,1,113.52
+2023-10-20,Wearables,LATAM,1048.56,1,110.24
+2023-05-19,Audio,North America,536.61,1,84.2
+2023-12-22,Audio,LATAM,1183.59,1,223.23
+2023-11-29,Wearables,LATAM,1182.09,2,264.1
